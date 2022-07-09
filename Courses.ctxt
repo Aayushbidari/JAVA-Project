@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Courses
+comment1.params=course_name\ course_ID\ course_duration
+comment1.target=Courses(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getcourse_ID()
+comment3.params=
+comment3.target=java.lang.String\ getcourse_name()
+comment4.params=
+comment4.target=int\ getcourse_duration()
+comment5.params=course_leader
+comment5.target=void\ setcourse_leader(java.lang.String)
+comment6.params=
+comment6.target=void\ display()
+numComments=7
